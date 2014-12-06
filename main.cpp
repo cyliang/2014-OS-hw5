@@ -4,7 +4,7 @@
 using namespace std;
 
 #define MAX_CASE 4
-int frame_case[MAX_CASE] = {2, 128, 256, 512};
+int frame_case[MAX_CASE] = {64, 128, 256, 512};
 
 typedef unsigned long address;
 
